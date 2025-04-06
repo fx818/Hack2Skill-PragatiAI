@@ -1,1 +1,1 @@
-# Hack2Skill
+# GDG-Solution-Teacher-Model
